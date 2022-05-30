@@ -1,0 +1,15 @@
+
+html, body {
+    background: black;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.screen {
+    background: rgb(40, 40, 40);
+    position: relative;
+    left: 50%; top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    border: 1px solid white;
+}
